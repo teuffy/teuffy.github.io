@@ -5,6 +5,7 @@ default:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: "pages"
     values:
-      layout: "default"
+      layout: "midnight"
    
